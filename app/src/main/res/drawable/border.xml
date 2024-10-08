@@ -1,0 +1,6 @@
+<!-- border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@android:color/transparent"/> <!-- สีพื้นหลังเป็นโปร่งใส -->
+    <stroke android:width="2dp" android:color="#FF5722"/> <!-- สีและความกว้างของกรอบ -->
+    <corners android:radius="8dp"/> <!-- มุมโค้งของกรอบ -->
+</shape>
